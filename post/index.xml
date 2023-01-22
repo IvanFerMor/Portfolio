@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis projectos on Ivan Fernandez Moreno</title>
+    <link>https://dataprofessor.github.io/IvanFernandezMoreno/post/</link>
+    <description>Recent content in Mis projectos on Ivan Fernandez Moreno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 22 Jan 2023 12:00:00 -0500</lastBuildDate><atom:link href="https://dataprofessor.github.io/IvanFernandezMoreno/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Proyecto 1: GExpenses</title>
+      <link>https://dataprofessor.github.io/IvanFernandezMoreno/post/project-1/</link>
+      <pubDate>Fri, 21 Oct 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://dataprofessor.github.io/IvanFernandezMoreno/post/project-1/</guid>
+      <description>Permite crear actividades en las que puede invitar todos los que participaron. Paga una persona y la web te genera los pagos automaticamente para que todos pagen lo mismo en el momento que tu quieras. Interfaz intuitiva para cualquier tipo de persona, minimalista y simple. Link to GitHub Repository</description>
+    </item>
+    
+  </channel>
+</rss>
